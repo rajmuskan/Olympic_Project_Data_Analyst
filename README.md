@@ -1,1 +1,1 @@
-# Olympic_Project_Data_Analyst
+In this project a dataset of olympic game was given of 120 years. Then I performed ETL on that dataset using Jupyter Notebook. Then I created a report by making plenty of visualisations to analyse and present the data in meaningful way.
